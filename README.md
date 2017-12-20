@@ -11,4 +11,5 @@ Above figure shows a sample scenario from a real match. Atletico Madrid (red) is
 Above figure shows the results on a sample sequence. The trajectories of the players are observed for a few time steps (solid lines). Predicted trajectories are then plotted (dashed lines) as a continuation on the same chart. As can be seen in the figure, Defenders D1 and D2 are initially closing down the attacker A1 in the observed part of the sequence. But, as soon as the attacker A1 sees an open space, it changes the path and tries to occupy that space. This however alerts the defender D2 and as such he also follows the attacker A1 to close him down. Meanwhile, defender D1 who was earlier covering A1 now finds another attacker A2 in its neighborhood. As such, D2
 changes path to close that defender down.
 
-* The approach was inspired the work of Anirudh et. al. on 'Social Attention : Modeling Attention in Human Crowds.' 
+* The approach was inspired the work of Anirudh et. al. on 'Social Attention : Modeling Attention in Human Crowds.'
+* Please contact me at jagjeets@andrew.cmu.edu to get more details
